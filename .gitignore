@@ -1,0 +1,9 @@
+## Outputs
+*.txt
+.flag
+
+## Editor
+.vscode
+
+## File System
+.DS_Store
